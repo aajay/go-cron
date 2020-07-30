@@ -1,4 +1,4 @@
-module github.com/tsingsound/go-cron
+module github.com/tsinsong/cron
 
 go 1.12
 
